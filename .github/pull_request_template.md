@@ -17,4 +17,3 @@
 ## Acceptance
 
 - [ ] Proper release label has been added
-
