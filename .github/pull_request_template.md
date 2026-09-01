@@ -10,7 +10,7 @@
 ## Reviewer
 
 - [ ] Code contains useful comments
-- [](Integration-)Test cases added
+- [ ] (Integration-)Test cases added
 - [ ] Documentation added or updated
 - [ ] Changelog updated
 
